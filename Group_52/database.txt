@@ -1,0 +1,11 @@
+001 110 iPhone
+002 500 waterBottle
+053 600 FastrackWatch
+044 900 Laptop
+035 420 MessFood
+026 660 UdemyCourse
+017 999 Slippers
+018 501 Printer
+019 502 Monitor
+010 100 CricketBat
+012 786 Mobile
